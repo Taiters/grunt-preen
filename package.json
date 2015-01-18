@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "preen": "*"
+    "preen": "git+https://github.com/Taiters/Preen.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
